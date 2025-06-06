@@ -1,0 +1,1 @@
+[![wakatime](https://wakatime.com/badge/github/anmol420/BlogAppAPI.svg)](https://wakatime.com/badge/github/anmol420/BlogAppAPI)
